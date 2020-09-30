@@ -1,0 +1,9 @@
+_id: suvery
+name: 调查问卷
+description: 调查问卷管理系统
+icon_slds: approval
+is_creator: true
+objects: 
+  - announcements
+mobile_objects: 
+  - announcements
